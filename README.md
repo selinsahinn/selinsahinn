@@ -1,4 +1,4 @@
-# Hi there, I'm Selin [selinsahinn][linkedin] 👋
+# Hi there, I'm Selin - [selinsahinn][linkedin] 👋
 
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
 - 📫 How to reach me
