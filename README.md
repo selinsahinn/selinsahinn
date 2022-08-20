@@ -9,6 +9,12 @@ selinsahin.sh@gmail.com
 
 selin.sahin5@ogr.sakarya.edu.tr
 
+Connect with me:
+
+[linkedin]: https://www.linkedin.com/in/selinsahinn/
+[medium]: https://medium.com/@selinsahinn
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinsahinn&theme=omni&show_icons=true)
 
 
