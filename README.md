@@ -1,4 +1,4 @@
-### 👋 Hi I'm @selinnsahin
+### 👋 Hi I'm @selinsahinn
 
 
 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
@@ -9,7 +9,7 @@ selinsahin.sh@gmail.com
 
 selin.sahin5@ogr.sakarya.edu.tr
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinnsahin&theme=omni&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinsahinn&theme=omni&show_icons=true)
 
 
 <!--
