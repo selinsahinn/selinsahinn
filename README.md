@@ -1,4 +1,10 @@
 ### 👋 Hi I'm @selinnsahin
+🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
+📫 How to reach me 
+selinsahin.sh@gmail.com
+selin.sahin5@ogr.sakarya.edu.tr
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=selinnsahin&show_icons=true&theme=gradient)
 
 
 <!--
@@ -6,9 +12,4 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning HTML,CSS,JAVASCRIPT,REACT
-📫 How to reach me 
-selinsahin.sh@gmail.com
-selin.sahin5@ogr.sakarya.edu.tr
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=selinnsahin&show_icons=true&theme=gradient)
