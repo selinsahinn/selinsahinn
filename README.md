@@ -14,14 +14,6 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/selinsahinn#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/selinsahinn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sahinnselin#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sahinnselin#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/selinihas#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/selinihas#gh-dark-mode-only)
-&nbsp;&nbsp;
-
- <br />
 
 ---
 
@@ -46,5 +38,4 @@
 ![Selin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinsahinn&theme=omni&show_icons=true)
 
 [linkedin]: https://linkedin.com/in/selinsahinn
-[instagram]: https://instagram.com/sahinnselin
-[twitter]: https://twitter.com/selinihas
+
