@@ -35,7 +35,5 @@
 
 ---
 
-![Selin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinsahinn&theme=omni&show_icons=true)
-
 [linkedin]: https://linkedin.com/in/selinsahinn
 
