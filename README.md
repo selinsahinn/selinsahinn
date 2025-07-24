@@ -1,6 +1,6 @@
 # Hi there, I'm Selin - [selinsahinn][linkedin] 👋
 
-- 🌱 I’m currently learning .NET, Java, C#, JAVASCRIPT, HTML, CSS
+- 🌱 I’m currently learning .NET, Java, React, HTML, CSS
 - 📫 How to reach me
 
   selinsahin.sh@gmail.com
